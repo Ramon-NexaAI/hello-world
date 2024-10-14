@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.top-border{
+    width:100%;
+    height:10px;
+    background-color: #EBEE13;
+
+}
+.header{
+    width:960px;
+    height: 115px;
+    background-color: #efefef;
+    margin:0px auto;
+}
